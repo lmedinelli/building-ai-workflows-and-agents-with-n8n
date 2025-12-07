@@ -1,0 +1,8 @@
+Prio: Not urgent
+
+Name: Luis
+
+Submitted: 2025-12-07T15:18:52.543-03:00
+
+Description:
+Outlook on Windows with suspected hardware-related issue; request escalation to human support.
