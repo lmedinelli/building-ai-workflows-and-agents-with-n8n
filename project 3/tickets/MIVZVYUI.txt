@@ -1,0 +1,8 @@
+Prio: Urgent
+
+Name: Luis
+
+Submitted: 2025-12-07T14:27:04.287-03:00
+
+Description:
+Hardware issue detected in the data centre; requires urgent triage and resolution.
